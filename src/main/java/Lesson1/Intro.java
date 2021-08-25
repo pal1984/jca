@@ -4,7 +4,7 @@ public class Intro {
 
     public static void main(String[] args) {
 
-        byte xs = 127;
+        byte xs = 120;
         short s = 16000;
         int m = 1565412165;
         long l = 516451511L;
